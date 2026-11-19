@@ -183,6 +183,10 @@ A versão da solução preparada para esta entrega reúne **51 testes xUnit**, i
 
 ![Repositório Totem com consulta LINQ e EF Core](evidencias/csharp/07-entity-framework-linq.png)
 
+### 7b. Consulta de existência com AnyAsync
+
+![Consulta de existência de código utilizando AnyAsync no TotemRepository](evidencias/csharp/07b-consulta-anyasync.png)
+
 ### 8. Programação assíncrona
 
 ![Serviço Totem com métodos async e await](evidencias/csharp/08-async-await.png)
